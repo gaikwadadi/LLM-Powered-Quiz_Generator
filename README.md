@@ -113,12 +113,6 @@ interactive-llm-quiz-generator/
 
 ---
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## Acknowledgements
 
 * OpenAI for the GPT model
